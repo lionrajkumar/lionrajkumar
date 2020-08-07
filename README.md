@@ -5,7 +5,7 @@
 - 📫 How to reach me: visit [lionrajkumar.com](http://lionrajkumar.com) or Send me the friend request will discuss over any live chats.
 - ⚡ Fun fact: love to create/learn new technology of coding
 
-Thank you. Keeb in touch. :+1:
+Thank you. Keep in touch. :+1:
 
 <!--
 **lionrajkumar/lionrajkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
