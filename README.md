@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working as a PHP web application developer at Integrass Inc.
-- 🌱 I’m currently learning laravel, moodle and some PHP frameworks. Also, I have been learning some tricks to writing my code with optimization and reusability like SOLID principle for my own projects and official projects
+- 🌱 I’m currently developing Web applications using laravel, moodle and some PHP frameworks. Also, I have been learning some tricks to writing my code with optimization and reusability like SOLID principle for my own projects and official projects
 - 💬 You can ask me about moodle plugin development and customization, laravel tricks for code optimaization and PHP related Queries I can help you to resolve your queries with best of my knowledge
 - 📫 How to reach me: visit [lionrajkumar.com](http://lionrajkumar.com) or Send me the friend request will discuss over any live chats.
 - ⚡ Fun fact: love to create/learn new technology of coding
