@@ -48,7 +48,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-0e3e55?style=flat&logo=PhpStorm) &nbsp;
 ![notepadplusplus](https://img.shields.io/badge/-Notepad++-0e3e55?style=flat&logo=notepadplusplus) &nbsp;
-<!---![Eclipse IDE](https://img.shields.io/badge/-Eclipse_IDE-0e3e55?style=flat&logo=Eclipse-IDE) &nbsp;-->
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0e3e55?style=flat&logo=visual-studio-code&logoColor=007ACC) &nbsp;
 ![vim](https://img.shields.io/badge/-Vim-0e3e55?style=flat&logo=vim) &nbsp;
 
