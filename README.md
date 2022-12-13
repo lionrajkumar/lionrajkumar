@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm Rajkumar Ramadoss <img align="right" src="https://komarev.com/ghpvc/?username=lionrajkumar&color=269077">
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am an Indian Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m currently working as a PHP web application developer at Integrass Inc.
-- 🌱 I’m currently developing Web applications using laravel, moodle and some PHP frameworks. Also, I have been learning some tricks to writing my code with optimization and reusability like SOLID principle for my own projects and official projects
-- 💬 You can ask me about moodle plugin development and customization, laravel tricks for code optimaization and PHP related Queries I can help you to resolve your queries with best of my knowledge
-- 📫 How to reach me: visit [lionrajkumar.com](http://lionrajkumar.com) or Send me the friend request will discuss over any live chats.
-- ⚡ Fun fact: love to create/learn new technology of coding
+- 🔭 I'm presently employed with Integrass Inc. as a PHP web application developer.
+- 🌱 Laravel, Moodle, and a few PHP frameworks are the tools I'm utilising right now to create Web apps. Additionally, I've been studying tips and techniques for designing code that is optimised and reuseable, such the SOLID principle, for both my personal projects and work-related tasks.
+- 💬 You can ask me questions regarding creating and customising Moodle plugins, Laravel code optimization tips, and PHP-related queries. I will do my best to assist you in resolving your questions.
+- 📫 To contact me, go to [lionrajkumar.com](http://lionrajkumar.com) or send me a friend request. We may speak live there.
+- ⚡ Fun fact: I enjoy learning and creating new coding technologies.
 
 ---
 
