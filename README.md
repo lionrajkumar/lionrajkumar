@@ -73,7 +73,7 @@ I am an Indian Full Stack Developer <img src="https://media.giphy.com/media/WUlp
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=lionrajkumar&theme=vision-friendly-dark&show_icons=true&count_private=true)](https://github.com/lionrajkumar)
 [![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=lionrajkumar&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/lionrajkumar)
 
-### 📫 &nbsp;Connect with Me
+### 📫 &nbsp; Do You Want to Contact Me?
 [![gmail](https://img.shields.io/badge/-lionrajkumar@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lionrajkumar@gmail.com) &nbsp;
 [![facebook](https://img.shields.io/badge/-Rajkumar_Ramadoss-0e3e55?style=social&logo=facebook)](https://www.facebook.com/people/Rajkumar-Ramadoss/100001471411349/) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/-lionrajkumar-0e3e55?style=social&logo=LinkedIn&logoColor=0a66c2)](https://in.linkedin.com/in/lionrajkumar) &nbsp;
