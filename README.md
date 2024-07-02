@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm Rajkumar Ramadoss <img align="right" src="https://komarev.com/ghpvc/?username=lionrajkumar&color=269077">
 
-I am an Indian Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I work as a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in India.
 
-- 🔭 I'm presently employed with Integrass Inc. as a PHP web application developer.
-- 🌱 Laravel, Moodle, and a few PHP frameworks are the tools I'm utilising right now to create Web apps. Additionally, I've been studying tips and techniques for designing code that is optimised and reuseable, such the SOLID principle, for both my personal projects and work-related tasks.
-- 💬 You can ask me questions regarding creating and customising Moodle plugins, Laravel code optimization tips, and PHP-related queries. I will do my best to assist you in resolving your questions.
-- 📫 To contact me, go to [lionrajkumar.com](http://lionrajkumar.com) or send me a friend request. We may speak live there.
-- ⚡ Fun fact: I enjoy learning and creating new coding technologies.
+- 🔭 As of right now, I work at Integrass Inc. as the Practice Head for Technical Delivery.
+- 🌱 I'm now using a couple of PHP frameworks, Moodle, and Laravel as my tools for creating web applications. In addition, I've been researching best practices and methods for creating reusable and optimized code, including the SOLID principle, for both personal and professional projects.
+- 💬 You may ask me questions about PHP, Laravel code optimization tricks, and building and customizing Moodle plugins. I'll do my hardest to help you find the answers to your queries.
+- 📫 Visit [lionrajkumar.com](http://lionrajkumar.com) or send me a friend request to get in touch with me. There, we may have a live conversation.
+- ⚡ Fun fact: I like to experiment with and learn different coding languages.
 
 ---
 
@@ -16,35 +16,45 @@ I am an Indian Full Stack Developer <img src="https://media.giphy.com/media/WUlp
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0e3e55?style=flat&logo=bootstrap&logoColor=563D7C) &nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0e3e55?style=flat&logo=JavaScript) &nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-0e3e55?style=flat&logo=jQuery) &nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-0e3e55?style=flat&logo=Vue.js) &nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0e3e55?style=flat&logo=PHP) &nbsp;
-![JSON](https://img.shields.io/badge/-JSON-0e3e55?style=flat&logo=JSON) &nbsp;
-![Font-Awesome](https://img.shields.io/badge/-Font_Awesome-0e3e55?style=flat&logo=Font-Awesome) &nbsp;
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-0e3e55?style=flat&logo=CodeIgniter) &nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-0e3e55?style=flat&logo=Laravel) &nbsp;
+![Moodle](https://img.shields.io/badge/-moodle-0e3e55?style=flat&logo=Moodle) &nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-0e3e55?style=flat&logo=WordPress) &nbsp;
-![JWT](https://img.shields.io/badge/-JSON_Web_Tokens-0e3e55?style=flat&logo=JSON-Web-Tokens) &nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-0e3e55?style=flat&logo=markdown) &nbsp;
 ![WooCommerce](https://img.shields.io/badge/-WooCommerce-0e3e55?style=flat&logo=Woo) &nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0e3e55?style=flat&logo=nodedotjs) &nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-0e3e55?style=flat&logo=Vue.js) &nbsp;
+![EJS](https://img.shields.io/badge/-EJS-0e3e55?style=flat&logo=ejs) &nbsp;
 ![DotNet](https://img.shields.io/badge/-.NET-0e3e55?style=flat&logo=.NET) &nbsp;
 ![C#](https://img.shields.io/badge/-C_Sharp-0e3e55?style=flat&logo=C-Sharp) &nbsp;
-![Postman](https://img.shields.io/badge/-Postman-0e3e55?style=flat&logo=Postman) &nbsp;
-![PayPal](https://img.shields.io/badge/-PayPal-0e3e55?style=flat&logo=PayPal) &nbsp;
-![Paytm](https://img.shields.io/badge/-Paytm-0e3e55?style=flat&logo=Paytm) &nbsp;
+![JSON](https://img.shields.io/badge/-JSON-0e3e55?style=flat&logo=JSON) &nbsp;
+![JWT](https://img.shields.io/badge/-JSON_Web_Tokens-0e3e55?style=flat&logo=JSON-Web-Tokens) &nbsp;
+![Font-Awesome](https://img.shields.io/badge/-Font_Awesome-0e3e55?style=flat&logo=Font-Awesome) &nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-0e3e55?style=flat&logo=markdown) &nbsp;
 
 ![MySQL](https://img.shields.io/badge/-MySQL-0e3e55?style=flat&logo=MySQL) &nbsp;
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-0e3e55?style=flat&logo=phpMyAdmin) &nbsp;
 ![Microsoft_SQL_Server](https://img.shields.io/badge/-Microsoft_SQL_Server-0e3e55?style=flat&logo=Microsoft-SQL-Server) &nbsp;
 ![Microsoft Access](https://img.shields.io/badge/-Microsoft_Access-0e3e55?style=flat&logo=Microsoft-Access) &nbsp;
 
-![Google Maps](https://img.shields.io/badge/-Google_Maps-0e3e55?style=flat&logo=Google-Maps) &nbsp;
-![Leaflet](https://img.shields.io/badge/-Leaflet.js-0e3e55?style=flat&logo=Leaflet) &nbsp;
+![PayPal](https://img.shields.io/badge/-PayPal-0e3e55?style=flat&logo=PayPal) &nbsp;
+![Stripe](https://img.shields.io/badge/-Stripe-0e3e55?style=flat&logo=stripe) &nbsp;
+![Razorpay](https://img.shields.io/badge/-Razorpay-0e3e55?style=flat&logo=razorpay) &nbsp;
+![Paytm](https://img.shields.io/badge/-Paytm-0e3e55?style=flat&logo=Paytm) &nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-0e3e55?style=flat&logo=git) &nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0e3e55?style=flat&logo=github) &nbsp;
 ![Git-Extensions](https://img.shields.io/badge/-Git_Extensions-0e3e55?style=flat&logo=Git-Extensions) &nbsp;
+
 ![Composer](https://img.shields.io/badge/-Composer-0e3e55?style=flat&logo=Composer) &nbsp;
 ![Packagist](https://img.shields.io/badge/-Packagist-0e3e55?style=flat&logo=Packagist) &nbsp;
+![npm](https://img.shields.io/badge/-npm-0e3e55?style=flat&logo=npm) &nbsp;
+
+![Postman](https://img.shields.io/badge/-Postman-0e3e55?style=flat&logo=Postman) &nbsp;
+![Swagger](https://img.shields.io/badge/-Swagger-0e3e55?style=flat&logo=swagger) &nbsp;
+
+![Google Maps](https://img.shields.io/badge/-Google_Maps-0e3e55?style=flat&logo=Google-Maps) &nbsp;
+![Leaflet](https://img.shields.io/badge/-Leaflet.js-0e3e55?style=flat&logo=Leaflet) &nbsp;
 
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-0e3e55?style=flat&logo=PhpStorm) &nbsp;
 ![notepadplusplus](https://img.shields.io/badge/-Notepad++-0e3e55?style=flat&logo=notepadplusplus) &nbsp;
@@ -61,10 +71,15 @@ I am an Indian Full Stack Developer <img src="https://media.giphy.com/media/WUlp
 ![Linux](https://img.shields.io/badge/-Linux-0e3e55?style=flat&logo=Linux) &nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0e3e55?style=flat&logo=Windows) &nbsp;
 
+![ZOHO](https://img.shields.io/badge/-Zoho-0e3e55?style=flat&logo=zoho) &nbsp;
+![Asana](https://img.shields.io/badge/-Asana-0e3e55?style=flat&logo=asana) &nbsp;
+![Jira](https://img.shields.io/badge/-Jira-0e3e55?style=flat&logo=Jira) &nbsp;
+
+![Medium](https://img.shields.io/badge/-Medium-0e3e55?style=flat&logo=medium) &nbsp;
+![dev.to](https://img.shields.io/badge/-dev.to-0e3e55?style=flat&logo=devdotto) &nbsp;
+![Envato](https://img.shields.io/badge/-Envato-0e3e55?style=flat&logo=Envato) &nbsp;
 ![Blogger](https://img.shields.io/badge/-Blogger-0e3e55?style=flat&logo=Blogger) &nbsp;
 ![Elsevier](https://img.shields.io/badge/-Elsevier-0e3e55?style=flat&logo=Elsevier) &nbsp;
-![Envato](https://img.shields.io/badge/-Envato-0e3e55?style=flat&logo=Envato) &nbsp;
-![Jira](https://img.shields.io/badge/-Jira-0e3e55?style=flat&logo=Jira) &nbsp;
 
 ---
 
