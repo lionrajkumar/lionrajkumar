@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm Rajkumar Ramadoss <img align="right" src="https://komarev.com/ghpvc/?username=lionrajkumar&color=269077">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=30&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+my+profile!;15%2B+years+of+professional+experience;A+Passionate+PHP+web-app+developer;Moodle+Certified+developer)](https://github.com/lionrajkuamr)
 
 I work as a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in India.
 
@@ -87,6 +88,15 @@ I work as a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcM
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=lionrajkumar&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/lionrajkumar)
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=lionrajkumar&theme=vision-friendly-dark&show_icons=true&count_private=true)](https://github.com/lionrajkumar)
 [![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=lionrajkumar&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/lionrajkumar)
+[![LionRajkumar](https://github-readme-activity-graph.vercel.app/graph?username=lionrajkumar&theme=merko)](https://github.com/lionrajkumar)
+
+---
+
+## 🏆 Achievements
+
+![trophy](https://github-profile-trophy.vercel.app/?username=lionrajkumar&theme=onedark)
+
+---
 
 ### 📫 &nbsp; Do You Want to Contact Me?
 [![gmail](https://img.shields.io/badge/-lionrajkumar@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lionrajkumar@gmail.com) &nbsp;
