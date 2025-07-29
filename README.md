@@ -84,7 +84,7 @@ I work as a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcM
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lionrajkumar&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/lionrajkumar)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=lionrajkumar&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/lionrajkumar)
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=lionrajkumar&theme=vision-friendly-dark&show_icons=true&count_private=true)](https://github.com/lionrajkumar)
 [![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=lionrajkumar&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/lionrajkumar)
 
