@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Rajkumar Ramadoss <img align="right" src="https://komarev.com/ghpvc/?username=lionrajkumar&color=269077">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=30&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+my+profile!;15%2B+years+of+professional+experience;A+Passionate+PHP+web-app+developer;Moodle+Certified+developer)](https://github.com/lionrajkuamr)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=30&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&width=550&height=60&lines=Welcome+to+my+profile!;15%2B+years+of+professional+experience;A+Passionate+PHP+web-app+developer;Moodle+Certified+developer)](https://github.com/lionrajkumar)
 
 I work as a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in India.
 
